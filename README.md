@@ -36,4 +36,4 @@
 </div>
 
 
-![Snake animation](https://github.com/WHorn712/WHorn712/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WHorn712/WHorn712/blob/main/.github/workflows/main.svg)
